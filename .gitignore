@@ -1,0 +1,32 @@
+# Maven build
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+
+# Gradle build
+/build/
+/.gradle/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+application.properties
+application.yml
+*.env
+
+# Others
+/bin/
+/tmp/
